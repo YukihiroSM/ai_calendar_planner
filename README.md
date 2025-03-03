@@ -13,8 +13,8 @@ This project is a **Telegram bot** that helps users schedule meetings by integra
 
 ### 2️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-repo-url/telegram-meeting-bot.git
-cd telegram-meeting-bot
+git clone git@github.com:YukihiroSM/ai_calendar_planner.git
+cd ai_calendar_planner
 ```
 
 ### 3️⃣ Set Up Environment Variables

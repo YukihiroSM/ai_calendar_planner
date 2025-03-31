@@ -1,5 +1,4 @@
 # Telegram Meeting Scheduler Bot
-## [ TEST TASK FOR CostCareAI ]
 
 This project is a **Telegram bot** that helps users schedule meetings by integrating with **Google Calendar**. The bot uses **LangGraph** for structured AI conversation handling and requires API credentials for Google Cloud.
 
